@@ -1,0 +1,37 @@
+commit 0a51657e75a8e5627fed2667823f7dd32efdbf36
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:37:25 2021 +0500
+
+    Добавил test.txt
+
+commit 9ddd6911bdd06ce1bc8f53554fc655c866470df5
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:34:59 2021 +0500
+
+    Добавил .gitignore
+
+commit daf597af51b0db9f2f2224364b4be30f85235b5e
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:32:29 2021 +0500
+
+    Revert "Изменил сообщение коммита"
+    
+    This reverts commit 24634ade8bce8c907d43c8fe5e2ff56beb51ebc0.
+
+commit f943bd9c37ab6201eb49497c0efba8b44df3220f
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:27:10 2021 +0500
+
+    Добавил номер аудитории
+
+commit 24634ade8bce8c907d43c8fe5e2ff56beb51ebc0
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:14:22 2021 +0500
+
+    Изменил сообщение коммита
+
+commit 9057db651ad3bef1380c44196da819e9436bdf16
+Author: Ткачук Денис <liptonb@ya.ru>
+Date:   Sat Sep 4 14:11:07 2021 +0500
+
+    Мой первый коммит
